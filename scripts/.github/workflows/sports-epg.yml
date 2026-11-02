@@ -1,11 +1,9 @@
+
 name: Generate Sports EPG
 
 on:
   workflow_dispatch:
-
   schedule:
-    # Setiap hari pukul 00:00 dan 12:00 UTC
-    # Sama dengan pukul 07:00 dan 19:00 WIB
     - cron: "0 0,12 * * *"
 
 permissions:
@@ -35,24 +33,22 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate EPG channel mapping
-        run: |
-          python scripts/generate_channels.py
+      - name: Generate channel mapping
+        run: python scripts/generate_channels.py
 
       - name: Download XMLTV engine
         run: |
           git clone --depth 1 \
-            https://github.com/iptv-org/epg.git \
-            epg-engine
+            https://github.com/iptv-org/epg.git epg-engine
 
-      - name: Install EPG dependencies
+      - name: Install dependencies
         working-directory: epg-engine
         run: npm install
 
-      - name: Prepare output folder
+      - name: Prepare output
         run: mkdir -p public
 
-      - name: Generate XMLTV guide
+      - name: Generate XMLTV
         working-directory: epg-engine
         run: |
           npm run grab -- \
@@ -62,35 +58,28 @@ jobs:
             --maxConnections=5 \
             --timeout=60000
 
-      - name: Validate XMLTV output
+      - name: Validate XMLTV
         run: |
           python - <<'PY'
           import xml.etree.ElementTree as ET
           from pathlib import Path
 
           path = Path("public/sports-epg.xml")
-
-          if not path.exists():
-              raise SystemExit("File sports-epg.xml tidak ditemukan")
-
-          if path.stat().st_size < 100:
-              raise SystemExit("File XMLTV terlalu kecil")
+          if not path.exists() or path.stat().st_size < 100:
+              raise SystemExit("File XMLTV tidak ditemukan atau kosong")
 
           root = ET.parse(path).getroot()
-
           if root.tag != "tv":
               raise SystemExit("Format XMLTV tidak valid")
 
-          print("XMLTV valid")
           print("Channel:", len(root.findall("channel")))
           print("Program:", len(root.findall("programme")))
           PY
 
-      - name: Copy unmatched report
-        run: |
-          cp epg-unmatched.json public/epg-unmatched.json
+      - name: Publish unmatched report
+        run: cp epg-unmatched.json public/epg-unmatched.json
 
-      - name: Setup GitHub Pages
+      - name: Configure Pages
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
@@ -98,6 +87,14 @@ jobs:
         with:
           path: public
 
-      - name: Deploy to GitHub Pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
