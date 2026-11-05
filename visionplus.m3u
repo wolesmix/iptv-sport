@@ -1,209 +1,309 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="##########   Indonesia   ##########" group-title="Indonesia" tvg-id="161428",##########   Indonesia   ##########
-https://iptvdashboard.com/brand/intro/indonesia-c30-665d56a1f7cb.mp4
 #EXTINF:-1 tvg-name="ANTV ID" group-title="Indonesia" tvg-id="62297",ANTV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62297?play_token=mlgV578SrK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62297?play_token=sAG1PfPv8y
 #EXTINF:-1 tvg-name="Al Quran Al Karem ID" group-title="Indonesia" tvg-id="62300",Al Quran Al Karem ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62300?play_token=OlRJb4WUIQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62300?play_token=IdZPPhVnkS
 #EXTINF:-1 tvg-name="Berita Satu World ID" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/animal-planet-de.png" tvg-id="62299",Berita Satu World ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62299?play_token=StYXkd0FlH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62299?play_token=GqWcyNG2zH
 #EXTINF:-1 tvg-name="Animax ID" group-title="Indonesia" tvg-id="62298",Animax ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62298?play_token=WYEyRi7B9v
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62298?play_token=i4bOzoDb5n
 #EXTINF:-1 tvg-name="Arirang Korea ID" group-title="Indonesia" tvg-id="62296",Arirang Korea ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62296?play_token=wr4qYTLcDK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62296?play_token=JtK6rxTSHK
 #EXTINF:-1 tvg-name="Bioskop ID" group-title="Indonesia" tvg-id="62291",Bioskop ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62291?play_token=Q2fSNIpFPF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62291?play_token=IytBTswTPV
 #EXTINF:-1 tvg-name="Berita Satu ID" group-title="Indonesia" tvg-id="62284",Berita Satu ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62284?play_token=yXhelEE6Ah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62284?play_token=vsogy7ozpF
 #EXTINF:-1 tvg-name="Animaux ID" group-title="Indonesia" tvg-id="62278",Animaux ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62278?play_token=Uk6ORiJIJF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62278?play_token=sbPBuLkZc6
 #EXTINF:-1 tvg-name="Da Ai TV ID" group-title="Indonesia" tvg-id="62269",Da Ai TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62269?play_token=tZPV3E9qfc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62269?play_token=5IKFt3pZ0e
 #EXTINF:-1 tvg-name="Dream Work HD ID" group-title="Indonesia" tvg-id="62263",Dream Work HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62263?play_token=u8PytjYCQj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62263?play_token=xRU35EWxK5
 #EXTINF:-1 tvg-name="Dunia Anak HD ID" group-title="Indonesia" tvg-id="62261",Dunia Anak HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62261?play_token=j19mjYZYYH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62261?play_token=w8AjOsKF6w
 #EXTINF:-1 tvg-name="EWTN ID" group-title="Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ewtn_us.png" tvg-id="62259",EWTN ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62259?play_token=n07Je7ESch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62259?play_token=bUJp2F4scb
 #EXTINF:-1 tvg-name="Dunia Lain HD ID" group-title="Indonesia" tvg-logo="http://tugapt.com/picons/euronews.png" tvg-id="62260",Dunia Lain HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62260?play_token=xiS4G4OxnB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62260?play_token=hsUVdZPbMf
 #EXTINF:-1 tvg-name="ENT ID" group-title="Indonesia" tvg-id="62257",ENT ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62257?play_token=u2yfMsY1cM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62257?play_token=qcZ0RzqYj9
 #EXTINF:-1 tvg-name="EAT & GO HD ID" group-title="Indonesia" tvg-id="62258",EAT & GO HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62258?play_token=6yXR1WNeW8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62258?play_token=C40YXILjjg
 #EXTINF:-1 tvg-name="ETV Bioskop 1 HD ID" group-title="Indonesia" tvg-id="62256",ETV Bioskop 1 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62256?play_token=s2PJxOr4la
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62256?play_token=wK7l9ymiHP
 #EXTINF:-1 tvg-name="ETV Bioskop 2 HD ID" group-title="Indonesia" tvg-id="62251",ETV Bioskop 2 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62251?play_token=kvGPHabCPg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62251?play_token=hm8NViok5T
 #EXTINF:-1 tvg-name="ETV Bioskop 3 HD ID" group-title="Indonesia" tvg-id="62249",ETV Bioskop 3 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62249?play_token=JHaOyPgMm5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62249?play_token=MjqE4dsGFZ
 #EXTINF:-1 tvg-name="ETV Bioskop 4 HD ID" group-title="Indonesia" tvg-id="62248",ETV Bioskop 4 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62248?play_token=tGlLH825QX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62248?play_token=NylY6NMx1y
 #EXTINF:-1 tvg-name="France24 ID" group-title="Indonesia" tvg-id="62245",France24 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62245?play_token=9IKC25jaHx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62245?play_token=yPzW5YScpM
 #EXTINF:-1 tvg-name="Flik HD ID" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hgtv-de.png" tvg-id="62242",Flik HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62242?play_token=cHX8i5benG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62242?play_token=dcwDch8krX
 #EXTINF:-1 tvg-name="Galaxy HD ID" group-title="Indonesia" tvg-id="62241",Galaxy HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62241?play_token=m3AsWfzaL8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62241?play_token=4H56xXgseH
 #EXTINF:-1 tvg-name="Galaxt Premium HD ID" group-title="Indonesia" tvg-logo="http://tugapt.com/picons/historyuk.png" tvg-id="62240",Galaxt Premium HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62240?play_token=jZsKimICi4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62240?play_token=EG0K6v7OVx
 #EXTINF:-1 tvg-name="GTV FHD ID" group-title="Indonesia" tvg-id="62239",GTV FHD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62239?play_token=1GfeclLzMD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62239?play_token=JhrrEHFBbl
 #EXTINF:-1 tvg-name="IDX ID" group-title="Indonesia" tvg-id="62237",IDX ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62237?play_token=gCATcVX1i5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62237?play_token=9cqrvwtqtW
 #EXTINF:-1 tvg-name="Horee! HD ID" group-title="Indonesia" tvg-id="62233",Horee! HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62233?play_token=NyAhRbfjLd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62233?play_token=P10U6HNBSR
 #EXTINF:-1 tvg-name="IMC FHD ID" group-title="Indonesia" tvg-id="62231",IMC FHD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62231?play_token=Odn9QP35py
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62231?play_token=pdws5huhJu
 #EXTINF:-1 tvg-name="Indosiar ID" group-title="Indonesia" tvg-id="62227",Indosiar ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62227?play_token=UsOmKppwGk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62227?play_token=3dmTpVEx3n
 #EXTINF:-1 tvg-name="MNC Entertainment ID" group-title="Indonesia" tvg-id="62221",MNC Entertainment ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62221?play_token=0HoWW1UJEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62221?play_token=WVjb8AJjCj
 #EXTINF:-1 tvg-name="MNC TV ID" group-title="Indonesia" tvg-id="62220",MNC TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62220?play_token=9kbGwIO4nh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62220?play_token=e9B9xhfGXj
 #EXTINF:-1 tvg-name="My Family ID" group-title="Indonesia" tvg-id="62219",My Family ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62219?play_token=GK52LSpdrW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62219?play_token=2b4MSfhYkm
 #EXTINF:-1 tvg-name="Moji20 HD ID" group-title="Indonesia" tvg-id="62218",Moji20 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62218?play_token=YpzcGg7clf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62218?play_token=fQpRozlRZr
 #EXTINF:-1 tvg-name="MNCTV ID" group-title="Indonesia" tvg-id="62214",MNCTV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62214?play_token=LqYKTJOfTl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62214?play_token=i8G79LhsPk
 #EXTINF:-1 tvg-name="Metro TV ID" group-title="Indonesia" tvg-id="62224",Metro TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62224?play_token=jd8iOekJyq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62224?play_token=2T0sN9hUz0
 #EXTINF:-1 tvg-name="NET.1 ID" group-title="Indonesia" tvg-id="62207",NET.1 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62207?play_token=YOZPZZvKfG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62207?play_token=HdCzI8bH3B
 #EXTINF:-1 tvg-name="NHK World Japan ID" group-title="Indonesia" tvg-id="62204",NHK World Japan ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62204?play_token=0zgwpoXsnl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62204?play_token=AC2QPBPQFa
 #EXTINF:-1 tvg-name="RTV5 Makin Cakep 1 ID" group-title="Indonesia" tvg-id="62197",RTV5 Makin Cakep 1 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62197?play_token=8bcH6v6fIG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62197?play_token=lwIcOKFWq4
 #EXTINF:-1 tvg-name="tvOne ID" group-title="Indonesia" tvg-id="62195",tvOne ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62195?play_token=z64VTWIP0G
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62195?play_token=cyPzn8ibNy
 #EXTINF:-1 tvg-name="RBTV ID" group-title="Indonesia" tvg-id="62191",RBTV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62191?play_token=64Uuga0UIv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62191?play_token=DxIIIG6PQx
 #EXTINF:-1 tvg-name="Sony One ID" group-title="Indonesia" tvg-id="62190",Sony One ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62190?play_token=MuQ5UoIZvV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62190?play_token=Cbr7vmJMWE
 #EXTINF:-1 tvg-name="TV One ID" group-title="Indonesia" tvg-id="62181",TV One ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62181?play_token=MunotaDJbY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62181?play_token=wfmFm22GYA
 #EXTINF:-1 tvg-name="TV9 ID" group-title="Indonesia" tvg-id="62180",TV9 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62180?play_token=vrB7LRJv3B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62180?play_token=SE6iaLaSOk
 #EXTINF:-1 tvg-name="Lifetime ID" group-title="Indonesia" tvg-id="62175",Lifetime ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62175?play_token=BTcrmhyoja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62175?play_token=mSiC2Hg3Zp
 #EXTINF:-1 tvg-name="TVRI ID" group-title="Indonesia" tvg-id="62177",TVRI ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62177?play_token=BksMUh6AhH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62177?play_token=RUGFbrrCel
 #EXTINF:-1 tvg-name="RCTV ID" group-title="Indonesia" tvg-id="62159",RCTV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62159?play_token=A4ewnaI4pt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62159?play_token=2taQvdrHc0
 #EXTINF:-1 tvg-name="ANIPlus ID" group-title="Indonesia" tvg-id="62158",ANIPlus ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62158?play_token=6gp7S6ZzNt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62158?play_token=bjiGhJMY1b
 #EXTINF:-1 tvg-name="Thrill ID" group-title="Indonesia" tvg-id="62189",Thrill ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62189?play_token=yNPJLWnZwV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62189?play_token=KxlCSTa8lS
 #EXTINF:-1 tvg-name="Trans TV HD ID" group-title="Indonesia" tvg-id="62186",Trans TV HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62186?play_token=Tg136sMPYa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62186?play_token=BKOPkqOMDD
 #EXTINF:-1 tvg-name="Trans7 ID" group-title="Indonesia" tvg-id="62187",Trans7 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62187?play_token=2tlY6QjoAq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62187?play_token=mH8ZCPT53z
 #EXTINF:-1 tvg-name="Wesal TV ID" group-title="Indonesia" tvg-id="62185",Wesal TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62185?play_token=pexN4hbnPs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62185?play_token=34yG8TbRb3
 #EXTINF:-1 tvg-name="SpoTV 2 HD ID" group-title="Indonesia" tvg-id="62142",SpoTV 2 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62142?play_token=y6NrRfRItY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62142?play_token=LTPMn83yZW
 #EXTINF:-1 tvg-name="Zee Bioskop ID" group-title="Indonesia" tvg-id="62141",Zee Bioskop ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62141?play_token=pqUYfXQ63s
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62141?play_token=x185F0nStY
 #EXTINF:-1 tvg-name="SpoTV 1 HD ID" group-title="Indonesia" tvg-id="62139",SpoTV 1 HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62139?play_token=lAEQdPB4Jo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62139?play_token=FZKZH538o0
 #EXTINF:-1 tvg-name="TVN ID" group-title="Indonesia" tvg-id="62138",TVN ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62138?play_token=KUiTrdpP9Z
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62138?play_token=AEFXtJe4Ec
 #EXTINF:-1 tvg-name="TVRI Sport HD ID" group-title="Indonesia" tvg-id="62137",TVRI Sport HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62137?play_token=y8tT89aZ53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62137?play_token=3ky0rUnJdB
 #EXTINF:-1 tvg-name="MTA 3 ID" group-title="Indonesia" tvg-id="6188",MTA 3 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/6188?play_token=m0eIpzzcHJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/6188?play_token=HPA5lT9L6T
 #EXTINF:-1 tvg-name="RRI NET ID" group-title="Indonesia" tvg-id="78282",RRI NET ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78282?play_token=n1TnzGPUCN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78282?play_token=g3wC7YpyUk
 #EXTINF:-1 tvg-name="TV5Monde ID" group-title="Indonesia" tvg-id="78288",TV5Monde ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78288?play_token=7wutTqauKW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78288?play_token=WsNkKTBsgY
 #EXTINF:-1 tvg-name="Arirang ID" group-title="Indonesia" tvg-id="78290",Arirang ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78290?play_token=sU3oW6oHWG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/78290?play_token=lTyljbntNS
 #EXTINF:-1 tvg-name="Al Jazeera English ID" group-title="Indonesia" tvg-id="62301",Al Jazeera English ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62301?play_token=qCfPUftsta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62301?play_token=zseTUa1I4K
 #EXTINF:-1 tvg-name="CGTN Documentary ID" group-title="Indonesia" tvg-id="62288",CGTN Documentary ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62288?play_token=9W9xdLzVUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62288?play_token=O1YVInPLwL
 #EXTINF:-1 tvg-name="Bloomberg ID" group-title="Indonesia" tvg-id="62282",Bloomberg ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62282?play_token=6OfuwTH69f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62282?play_token=1vL9aG7Lpp
 #EXTINF:-1 tvg-name="CNBC ID" group-title="Indonesia" tvg-id="62273",CNBC ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62273?play_token=jcUEK8CHgg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62273?play_token=SsH8YfvR3W
 #EXTINF:-1 tvg-name="CNN ID" group-title="Indonesia" tvg-id="62272",CNN ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62272?play_token=PXlWIhScvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62272?play_token=3PsvYL5ggi
 #EXTINF:-1 tvg-name="DW ID" group-title="Indonesia" tvg-id="62262",DW ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62262?play_token=yMtjeSDona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62262?play_token=37xt7s2PwF
 #EXTINF:-1 tvg-name="Insert HD ID" group-title="Indonesia" tvg-id="62232",Insert HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62232?play_token=igyWnP0Oe6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62232?play_token=pG7hRfiKKw
 #EXTINF:-1 tvg-name="MNC News ID" group-title="Indonesia" tvg-id="62222",MNC News ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62222?play_token=fYfQ2Xu27u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62222?play_token=2XhYxErl9u
 #EXTINF:-1 tvg-name="News Asia Channel ID" group-title="Indonesia" tvg-id="62205",News Asia Channel ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62205?play_token=W01Xb3ourW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62205?play_token=5BldzO9Zmn
 #EXTINF:-1 tvg-name="RT English ID" group-title="Indonesia" tvg-id="62198",RT English ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62198?play_token=8W1QMqo4xI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62198?play_token=qTG3sGgj7C
 #EXTINF:-1 tvg-name="S News ID" group-title="Indonesia" tvg-logo="http://tugapt.com/picons/skynewsuk.png" tvg-id="62192",S News ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62192?play_token=uLhzA2GnfV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62192?play_token=X4y9Mr9DR3
 #EXTINF:-1 tvg-name="TRT World ID" group-title="Indonesia" tvg-id="62183",TRT World ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62183?play_token=CcpaRLReFR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62183?play_token=GA8tbGEB3l
 #EXTINF:-1 tvg-name="CNN Indonesia ID" group-title="Indonesia" tvg-id="62163",CNN Indonesia ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62163?play_token=atFAAUucMS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62163?play_token=JiAmJeNzGP
 #EXTINF:-1 tvg-name="News Asia HD ID" group-title="Indonesia" tvg-id="62287",News Asia HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62287?play_token=3PmDygMb5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62287?play_token=Dhx5lGyei9
 #EXTINF:-1 tvg-name="iNews ID" group-title="Indonesia" tvg-id="62235",iNews ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62235?play_token=1LzoDJL7gQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62235?play_token=S8GW7DCJ4I
 #EXTINF:-1 tvg-name="BBC LifeStyle ID" group-title="Indonesia" tvg-id="62302",BBC LifeStyle ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62302?play_token=2H2Vo6VPIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62302?play_token=XIt9nDFvhS
 #EXTINF:-1 tvg-name="Asian Food Channel ID" group-title="Indonesia" tvg-id="62295",Asian Food Channel ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62295?play_token=8vfRmBtouA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62295?play_token=uZylsTSX26
 #EXTINF:-1 tvg-name="Fashion FHD ID" group-title="Indonesia" tvg-id="62243",Fashion FHD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62243?play_token=wvawrcH2oU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62243?play_token=AEbzATzyFU
 #EXTINF:-1 tvg-name="HGTV HD ID" group-title="Indonesia" tvg-id="62234",HGTV HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62234?play_token=lhdeQ97JGv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62234?play_token=XMWtYWfRhu
 #EXTINF:-1 tvg-name="Life Style Fashion ID" group-title="Indonesia" tvg-id="62226",Life Style Fashion ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62226?play_token=oGZW8cZMO5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62226?play_token=HckjOBRtCt
 #EXTINF:-1 tvg-name="Fashion TV ID" group-title="Indonesia" tvg-id="62162",Fashion TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62162?play_token=bptH5xmHgq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62162?play_token=R77bTKEfEy
 #EXTINF:-1 tvg-name="Cinemax FHD ID" group-title="Indonesia" tvg-id="62277",Cinemax FHD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62277?play_token=YLOm0WZo7u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62277?play_token=KbUIwxzBOd
 #EXTINF:-1 tvg-name="Celestial Movies ID" group-title="Indonesia" tvg-id="62276",Celestial Movies ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62276?play_token=ECikSmdLKo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62276?play_token=TTJIgMfWjU
 #EXTINF:-1 tvg-name="Cinema World ID" group-title="Indonesia" tvg-id="62274",Cinema World ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62274?play_token=uDrIxzyxpK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62274?play_token=k2hpoNutBe
 #EXTINF:-1 tvg-name="My Cinema Asia ID" group-title="Indonesia" tvg-id="62223",My Cinema Asia ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62223?play_token=9D8wAIiKNt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62223?play_token=jl3ewrN6Cd
 #EXTINF:-1 tvg-name="TVN Movies ID" group-title="Indonesia" tvg-id="62178",TVN Movies ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62178?play_token=6EpuSHsuag
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62178?play_token=n9mrSBqX46
 #EXTINF:-1 tvg-name="HBO FAMILY ID" group-title="Indonesia" tvg-id="62172",HBO FAMILY ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62172?play_token=HODvu7a4aB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62172?play_token=FvbL69lOwr
 #EXTINF:-1 tvg-name="HBO RED ID" group-title="Indonesia" tvg-id="62171",HBO RED ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62171?play_token=MYXk5tRCMn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62171?play_token=lGbhVbIaxJ
 #EXTINF:-1 tvg-name="Zee Cinema ID" group-title="Indonesia" tvg-id="62140",Zee Cinema ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62140?play_token=lBam9mS4jZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62140?play_token=1fNOUl88MG
 #EXTINF:-1 tvg-name="AXN ID" group-title="Indonesia" tvg-id="62293",AXN ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62293?play_token=iQEAdWMsEK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62293?play_token=z061AYmzVt
 #EXTINF:-1 tvg-name="Chinese Drama HD ID" group-title="Indonesia" tvg-id="62283",Chinese Drama HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62283?play_token=lrMpmpIZPU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62283?play_token=XkIao4hwrk
 #EXTINF:-1 tvg-name="Citra Drama HD ID" group-title="Indonesia" tvg-id="62267",Citra Drama HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62267?play_token=FwshL6vF4J
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62267?play_token=Vcy2uB2Kfa
 #EXTINF:-1 tvg-name="Baby TV ID" group-title="Indonesia" tvg-id="62292",Baby TV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62292?play_token=npDh8xm3a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62292?play_token=O1Kh5Cqi8P
 #EXTINF:-1 tvg-name="Boomerang 1 ID" group-title="Indonesia" tvg-logo="http://tugapt.com/picons/boomerangnl.png" tvg-id="62281",Boomerang 1 ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62281?play_token=GisRI5w6i3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62281?play_token=9Br80pZ8Di
 #EXTINF:-1 tvg-name="Cartoon Network ID" group-title="Indonesia" tvg-logo="http://tugapt.com/picons/cartoonnetworkse.png" tvg-id="62279",Cartoon Network ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62279?play_token=W3MSpBFWqG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62279?play_token=suAEG8dny8
 #EXTINF:-1 tvg-name="Indi Kids ID" group-title="Indonesia" tvg-id="62229",Indi Kids ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62229?play_token=aozeNhoyMF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62229?play_token=tn42kBGA9y
 #EXTINF:-1 tvg-name="MYTV ID" group-title="Indonesia" tvg-id="62211",MYTV ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62211?play_token=KRtKe1kikv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62211?play_token=VfojajOKwK
 #EXTINF:-1 tvg-name="Nick ID" group-title="Indonesia" tvg-id="62202",Nick ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62202?play_token=veu0GH5dQ6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62202?play_token=v9awWCe4fi
 #EXTINF:-1 tvg-name="Nickelodeon ID" group-title="Indonesia" tvg-id="62201",Nickelodeon ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62201?play_token=yWwzSdRJkN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62201?play_token=9l0QIpJzJO
 #EXTINF:-1 tvg-name="BBC Earth ID" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" tvg-id="62289",BBC Earth ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62289?play_token=tlelM9H4pK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62289?play_token=1v0PNYeEmd
 #EXTINF:-1 tvg-name="Crime+ Investigation ID" group-title="Indonesia" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/crime-and-investigation-de.png" tvg-id="62270",Crime+ Investigation ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62270?play_token=b7wWsLQmKe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62270?play_token=Hr71dXGhqb
 #EXTINF:-1 tvg-name="Discovery World HD ID" group-title="Indonesia" tvg-id="62264",Discovery World HD ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62264?play_token=4xxiueLwka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62264?play_token=h2eVOwHHV9
 #EXTINF:-1 tvg-name="Discovery Channel ID" group-title="Indonesia" tvg-id="62268",Discovery Channel ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62268?play_token=Ry5LpIGGtE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62268?play_token=5UBWAWCpkX
 #EXTINF:-1 tvg-name="Nat Geo ID" group-title="Indonesia" tvg-id="62210",Nat Geo ID
-http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62210?play_token=XPTSvBAZrQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG250 stbapp ver: 2 rev: 250 Safari/533.3
+http://dsaiiiilllliillsad.cdnip.online:8080/PJjFa3dhHm/nv0f6TIdKy/62210?play_token=4VYFNfWxn1
